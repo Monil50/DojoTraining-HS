@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PPEroom.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/HeightPassPlatform.unity
+    guid: 93a3fc4b21882784b90348d714acd89a
+  - enabled: 1
+    path: Assets/Scenes/Scaffold.unity
+    guid: 8eeca64f8661242459672cce7b480cfe
+  - enabled: 1
+    path: Assets/Scenes/RoofTop.unity
+    guid: 6894878ec6f2277419d3e9b9b3d313a7
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 41b0589015460af4d8490a9bc21c54a9,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2ec24d39f7b5ac84aad7e5df7b4fd3ea,
+      type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: fe9659bb224bb054bb1dbca065d1d318, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7c0d65f8139523c47a3ac0b1587ccdf6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c5b0c6f9ae23142478a17b4e72152adc,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 81d3bfbf1525c1a4c9d1bdb03d38db14,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 2ae0a4a226e8d9e4aba56d1e2eb3977b,
+      type: 2}
