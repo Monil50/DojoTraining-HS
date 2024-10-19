@@ -6,17 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HightSafety/Scenes/PPEroom.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/HightSafety/Scenes/HeightPassPlatform.unity
-    guid: 93a3fc4b21882784b90348d714acd89a
-  - enabled: 1
-    path: Assets/HightSafety/Scenes/Scaffold.unity
-    guid: 8eeca64f8661242459672cce7b480cfe
-  - enabled: 1
-    path: Assets/HightSafety/Scenes/RoofTop.unity
-    guid: 6894878ec6f2277419d3e9b9b3d313a7
+    path: Assets/Scene/PPEroom.unity
+    guid: d3413fbf19b8215499987a3eec3fa3fa
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 41b0589015460af4d8490a9bc21c54a9,
       type: 2}
