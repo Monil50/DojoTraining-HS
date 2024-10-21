@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/PPEroom.unity
     guid: d3413fbf19b8215499987a3eec3fa3fa
+  - enabled: 0
+    path: Assets/Scene/DOJO Scene 2.unity
+    guid: 9bfb896f31877f54b92000400e38b895
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 41b0589015460af4d8490a9bc21c54a9,
       type: 2}
